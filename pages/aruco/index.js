@@ -1,5 +1,5 @@
 import * as THREE from '../../libs/vendors/three'
-import ARUCO from '../../libs/vendors/aruco/index'
+import ARUCO from '../../libs/vendors/aruco/aruco'
 
 const app = getApp()
 let camera, scene, renderer, canvas
